@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang= "en">
+<head>
+<title>Welcome!</title>
+</head>
+<style>
+div{
+backround-color:babypink;
+width: 100px;
+height: 400px;
+padding: 20px;
+margin: 20px;
+font-family:curlz mt, arial;
+font-size: 28px;
+font-weight: bold;
+}
+</style.
+</style>
+<body>
+<h1 style="color:pink; text-align:center;">Welcome, Everyone!<\h1>
+<h2>Thanks for visiting this webpage</h2>
+<h3>I hope you enjoy this content</h3>
+<div>
+Poptropica Facts!
+</div>
+<ul>
+<li>first topic</li>
+<li>second topic</li>
+<li>third topic</li>
+</ul>
+<ol>
+<li>first topic</li>
+<li>second topic</li>
+<li>third topic</li>
+</ol>
+<img src="rabbit.jpg" alt="rabbit" width="300">
+<a href="https://www.poptropica.com/">click here for poptropica</a>
+<table>
+<thead>
+<tr>
+<th>nabooti island</th>
+<th>the great pumpkin</th>
+<th>wimpy wonderland</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>hard></td> -28min
+<td>not colorful</td>
+<td>lost interest</td>
+</tr>
+<tr>
+<td>fun</td>
+<td>well executed</td>
+<td>favorite</td>
+</tr>
+</tbody>
+</table>
+<form>
+<input type="text" placeholder="full name" name="name">
+<input type="submit">
+</form>
+</body>
+</html>

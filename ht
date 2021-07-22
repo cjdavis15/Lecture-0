@@ -33,6 +33,23 @@ body{
 background-color: baby blue;
 }
 }
+<style>
+#container{
+display:flex;
+flex-wrap:wrap;
+}
+#container> div{
+background-color: neonpink;
+font-size: 20px;
+margin: 20px;
+padding: 20px;
+width:200px;
+}
+</style>
+<body>
+<div id= "container">
+<div>this is sample texts demo flexbox</div>
+</body>
 <body>
 <h1 style="color:pink; text-align:center;">Welcome, Everyone!<\h1>
 <h2>Thanks for visiting this webpage</h2>

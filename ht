@@ -10,12 +10,29 @@ width: 100px;
 height: 400px;
 padding: 20px;
 margin: 20px;
+border:3px solid black;
 font-family:curlz mt, arial;
 font-size: 28px;
 font-weight: bold;
 }
-</style.
+td{
+border:1px solid black;
+}
+th{
+border: 1px solid black;
+}
 </style>
+<style>
+@media (min-width: 600px)
+body{
+background-color: light pink;
+}
+}
+@media (max-width: 599px;) {
+body{
+background-color: baby blue;
+}
+}
 <body>
 <h1 style="color:pink; text-align:center;">Welcome, Everyone!<\h1>
 <h2>Thanks for visiting this webpage</h2>
@@ -23,16 +40,40 @@ font-weight: bold;
 <div>
 Poptropica Facts!
 </div>
+<style>
+button{
+width: 200px;
+height: 50px;
+font-size: 24px;
+background-color:green;
+}
+button:hover{
+background-color: orange;
+}
+</style>
+<button>click me </button>
 <ul>
 <li>first topic</li>
 <li>second topic</li>
 <li>third topic</li>
+<li> sublist item one </li>
 </ul>
 <ol>
 <li>first topic</li>
 <li>second topic</li>
 <li>third topic</li>
 </ol>
+<style>
+a{
+color: blue;
+}
+a[href="https://facebook.com"]{
+color:red;
+}
+</style>
+<ul>
+<li><a href="https://google.com">Google</a></li>
+</ul>
 <img src="rabbit.jpg" alt="rabbit" width="300">
 <a href="https://www.poptropica.com/">click here for poptropica</a>
 <table>
